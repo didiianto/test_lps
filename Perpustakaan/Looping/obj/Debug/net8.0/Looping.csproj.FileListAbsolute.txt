@@ -1,0 +1,14 @@
+D:\ProjectData\Backup\NET\Perpustakaan\Looping\bin\Debug\net8.0\Looping.exe
+D:\ProjectData\Backup\NET\Perpustakaan\Looping\bin\Debug\net8.0\Looping.deps.json
+D:\ProjectData\Backup\NET\Perpustakaan\Looping\bin\Debug\net8.0\Looping.runtimeconfig.json
+D:\ProjectData\Backup\NET\Perpustakaan\Looping\bin\Debug\net8.0\Looping.dll
+D:\ProjectData\Backup\NET\Perpustakaan\Looping\bin\Debug\net8.0\Looping.pdb
+D:\ProjectData\Backup\NET\Perpustakaan\Looping\obj\Debug\net8.0\Looping.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjectData\Backup\NET\Perpustakaan\Looping\obj\Debug\net8.0\Looping.AssemblyInfoInputs.cache
+D:\ProjectData\Backup\NET\Perpustakaan\Looping\obj\Debug\net8.0\Looping.AssemblyInfo.cs
+D:\ProjectData\Backup\NET\Perpustakaan\Looping\obj\Debug\net8.0\Looping.csproj.CoreCompileInputs.cache
+D:\ProjectData\Backup\NET\Perpustakaan\Looping\obj\Debug\net8.0\Looping.dll
+D:\ProjectData\Backup\NET\Perpustakaan\Looping\obj\Debug\net8.0\refint\Looping.dll
+D:\ProjectData\Backup\NET\Perpustakaan\Looping\obj\Debug\net8.0\Looping.pdb
+D:\ProjectData\Backup\NET\Perpustakaan\Looping\obj\Debug\net8.0\Looping.genruntimeconfig.cache
+D:\ProjectData\Backup\NET\Perpustakaan\Looping\obj\Debug\net8.0\ref\Looping.dll

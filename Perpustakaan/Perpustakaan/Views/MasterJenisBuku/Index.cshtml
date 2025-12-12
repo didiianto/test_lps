@@ -1,0 +1,25 @@
+﻿@model IEnumerable<Perpustakaan.Models.MasterJenisBuku>
+
+<h2>Master Jenis Buku</h2>
+
+<a class="btn btn-primary" href="/MasterJenisBuku/Create">Create</a>
+
+<table class="table">
+    <tr>
+        <th>Id</th>
+        <th>Jenis Buku</th>
+        <th>Aksi</th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.Id</td>
+            <td>@item.JenisBuku</td>
+            <td>
+                <a href="/MasterJenisBuku/Edit/@item.Id">Edit</a>
+                <a href="/MasterJenisBuku/Delete/@item.Id">Delete</a>
+            </td>
+        </tr>
+    }
+</table>
+

@@ -1,0 +1,14 @@
+D:\ProjectData\Backup\NET\Perpustakaan\CekString\bin\Debug\net8.0\CekString.exe
+D:\ProjectData\Backup\NET\Perpustakaan\CekString\bin\Debug\net8.0\CekString.deps.json
+D:\ProjectData\Backup\NET\Perpustakaan\CekString\bin\Debug\net8.0\CekString.runtimeconfig.json
+D:\ProjectData\Backup\NET\Perpustakaan\CekString\bin\Debug\net8.0\CekString.dll
+D:\ProjectData\Backup\NET\Perpustakaan\CekString\bin\Debug\net8.0\CekString.pdb
+D:\ProjectData\Backup\NET\Perpustakaan\CekString\obj\Debug\net8.0\CekString.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjectData\Backup\NET\Perpustakaan\CekString\obj\Debug\net8.0\CekString.AssemblyInfoInputs.cache
+D:\ProjectData\Backup\NET\Perpustakaan\CekString\obj\Debug\net8.0\CekString.AssemblyInfo.cs
+D:\ProjectData\Backup\NET\Perpustakaan\CekString\obj\Debug\net8.0\CekString.csproj.CoreCompileInputs.cache
+D:\ProjectData\Backup\NET\Perpustakaan\CekString\obj\Debug\net8.0\CekString.dll
+D:\ProjectData\Backup\NET\Perpustakaan\CekString\obj\Debug\net8.0\refint\CekString.dll
+D:\ProjectData\Backup\NET\Perpustakaan\CekString\obj\Debug\net8.0\CekString.pdb
+D:\ProjectData\Backup\NET\Perpustakaan\CekString\obj\Debug\net8.0\CekString.genruntimeconfig.cache
+D:\ProjectData\Backup\NET\Perpustakaan\CekString\obj\Debug\net8.0\ref\CekString.dll

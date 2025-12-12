@@ -1,0 +1,37 @@
+﻿@model Perpustakaan.Models.Buku
+@using Microsoft.AspNetCore.Mvc.Rendering
+
+<h2>Tambah Buku</h2>
+
+<form method="post" asp-action="Create">
+    <div class="form-group">
+        <label for="judul">Judul:</label>
+        <input type="text" name="judul" class="form-control" required>
+    </div>
+    <div class="form-group">
+        <label for="pengarang">Penulis:</label>
+        <input type="text" name="penulis" class="form-control" required>
+    </div>
+    <div class="form-group">
+        <label for="pengarang">Jenis Buku:</label>
+        <select asp-for="JenisBukuId" class="form-control"
+        asp-items="@(new SelectList(ViewBag.Jenis, "Id", "JenisBuku"))">
+        <option value="">-- Pilih Jenis Buku --</option>
+    </select>
+    </div>
+
+    <div class="form-group">
+        <label for="tahunTerbit">Tanggal Rilis</label>
+        <input asp-for="TanggalRilis" type="date" class="form-control" required>
+    </div>
+
+    <div class="form-group">
+        <label for="jumlahHalaman">Jumlah Halaman</label>
+        <input type="number" name="jumlahHalaman" class="form-control" required>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Simpan</button>
+    <a asp-action="Index" class="btn btn-secondary">Kembali</a>
+
+</form>
+

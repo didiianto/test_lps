@@ -1,0 +1,14 @@
+D:\ProjectData\Backup\NET\Perpustakaan\GeneratorFile\bin\Debug\net8.0\GeneratorFile.exe
+D:\ProjectData\Backup\NET\Perpustakaan\GeneratorFile\bin\Debug\net8.0\GeneratorFile.deps.json
+D:\ProjectData\Backup\NET\Perpustakaan\GeneratorFile\bin\Debug\net8.0\GeneratorFile.runtimeconfig.json
+D:\ProjectData\Backup\NET\Perpustakaan\GeneratorFile\bin\Debug\net8.0\GeneratorFile.dll
+D:\ProjectData\Backup\NET\Perpustakaan\GeneratorFile\bin\Debug\net8.0\GeneratorFile.pdb
+D:\ProjectData\Backup\NET\Perpustakaan\GeneratorFile\obj\Debug\net8.0\GeneratorFile.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjectData\Backup\NET\Perpustakaan\GeneratorFile\obj\Debug\net8.0\GeneratorFile.AssemblyInfoInputs.cache
+D:\ProjectData\Backup\NET\Perpustakaan\GeneratorFile\obj\Debug\net8.0\GeneratorFile.AssemblyInfo.cs
+D:\ProjectData\Backup\NET\Perpustakaan\GeneratorFile\obj\Debug\net8.0\GeneratorFile.csproj.CoreCompileInputs.cache
+D:\ProjectData\Backup\NET\Perpustakaan\GeneratorFile\obj\Debug\net8.0\GeneratorFile.dll
+D:\ProjectData\Backup\NET\Perpustakaan\GeneratorFile\obj\Debug\net8.0\refint\GeneratorFile.dll
+D:\ProjectData\Backup\NET\Perpustakaan\GeneratorFile\obj\Debug\net8.0\GeneratorFile.pdb
+D:\ProjectData\Backup\NET\Perpustakaan\GeneratorFile\obj\Debug\net8.0\GeneratorFile.genruntimeconfig.cache
+D:\ProjectData\Backup\NET\Perpustakaan\GeneratorFile\obj\Debug\net8.0\ref\GeneratorFile.dll
