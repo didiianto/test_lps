@@ -10,7 +10,6 @@ namespace Perpustakaan.Data.Repository
         Task AddAsync(T entity);
         void UpdateAsync(T entity);
         void DeleteAsync(T entity);
-        Task SaveAsync();
     }
 
     public class GenericRepository<T> : IGenericRepository<T> where T : class
@@ -50,10 +49,6 @@ namespace Perpustakaan.Data.Repository
         public void UpdateAsync(T entity)
         {
             _table.Update(entity);
-        }
-        public async Task SaveAsync()
-        {
-            await _db.SaveChangesAsync();
         }
     }
 }

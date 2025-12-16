@@ -61,7 +61,7 @@ namespace Perpustakaan.Migrations
                         column: x => x.JenisBukuId,
                         principalTable: "MasterJenisBuku",
                         principalColumn: "Id",
-                        onDelete: ReferentialAction.Cascade);
+                        onDelete: ReferentialAction.Restrict);
                 });
 
             migrationBuilder.CreateIndex(

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ProjectData\\Backup\\NET\\Perpustakaan\\CekString\\CekString.csproj": {}
+    "D:\\ProjectData\\GitHub\\test_lps\\Perpustakaan\\CekString\\CekString.csproj": {}
   },
   "projects": {
-    "D:\\ProjectData\\Backup\\NET\\Perpustakaan\\CekString\\CekString.csproj": {
+    "D:\\ProjectData\\GitHub\\test_lps\\Perpustakaan\\CekString\\CekString.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ProjectData\\Backup\\NET\\Perpustakaan\\CekString\\CekString.csproj",
+        "projectUniqueName": "D:\\ProjectData\\GitHub\\test_lps\\Perpustakaan\\CekString\\CekString.csproj",
         "projectName": "CekString",
-        "projectPath": "D:\\ProjectData\\Backup\\NET\\Perpustakaan\\CekString\\CekString.csproj",
+        "projectPath": "D:\\ProjectData\\GitHub\\test_lps\\Perpustakaan\\CekString\\CekString.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "D:\\ProjectData\\Backup\\NET\\Perpustakaan\\CekString\\obj\\",
+        "outputPath": "D:\\ProjectData\\GitHub\\test_lps\\Perpustakaan\\CekString\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

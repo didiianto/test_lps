@@ -1,54 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\ProjectData\\Backup\\NET\\Perpustakaan\\",
+  "WorkspaceRootPath": "D:\\ProjectData\\GitHub\\test_lps\\Perpustakaan\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AE19BC41-2682-4CB7-8F51-EA5675174689}|Perpustakaan\\Perpustakaan.csproj|d:\\projectdata\\backup\\net\\perpustakaan\\perpustakaan\\views\\buku\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AE19BC41-2682-4CB7-8F51-EA5675174689}|Perpustakaan\\Perpustakaan.csproj|solutionrelative:perpustakaan\\views\\buku\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE19BC41-2682-4CB7-8F51-EA5675174689}|Perpustakaan\\Perpustakaan.csproj|d:\\projectdata\\backup\\net\\perpustakaan\\perpustakaan\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AE19BC41-2682-4CB7-8F51-EA5675174689}|Perpustakaan\\Perpustakaan.csproj|solutionrelative:perpustakaan\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE19BC41-2682-4CB7-8F51-EA5675174689}|Perpustakaan\\Perpustakaan.csproj|d:\\projectdata\\backup\\net\\perpustakaan\\perpustakaan\\controllers\\bukucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE19BC41-2682-4CB7-8F51-EA5675174689}|Perpustakaan\\Perpustakaan.csproj|solutionrelative:perpustakaan\\controllers\\bukucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE19BC41-2682-4CB7-8F51-EA5675174689}|Perpustakaan\\Perpustakaan.csproj|d:\\projectdata\\backup\\net\\perpustakaan\\perpustakaan\\views\\buku\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AE19BC41-2682-4CB7-8F51-EA5675174689}|Perpustakaan\\Perpustakaan.csproj|solutionrelative:perpustakaan\\views\\buku\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE19BC41-2682-4CB7-8F51-EA5675174689}|Perpustakaan\\Perpustakaan.csproj|d:\\projectdata\\backup\\net\\perpustakaan\\perpustakaan\\views\\masterjenisbuku\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AE19BC41-2682-4CB7-8F51-EA5675174689}|Perpustakaan\\Perpustakaan.csproj|solutionrelative:perpustakaan\\views\\masterjenisbuku\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE19BC41-2682-4CB7-8F51-EA5675174689}|Perpustakaan\\Perpustakaan.csproj|d:\\projectdata\\backup\\net\\perpustakaan\\perpustakaan\\views\\masterjenisbuku\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AE19BC41-2682-4CB7-8F51-EA5675174689}|Perpustakaan\\Perpustakaan.csproj|solutionrelative:perpustakaan\\views\\masterjenisbuku\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE19BC41-2682-4CB7-8F51-EA5675174689}|Perpustakaan\\Perpustakaan.csproj|d:\\projectdata\\backup\\net\\perpustakaan\\perpustakaan\\controllers\\masterjenisbukucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE19BC41-2682-4CB7-8F51-EA5675174689}|Perpustakaan\\Perpustakaan.csproj|solutionrelative:perpustakaan\\controllers\\masterjenisbukucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE19BC41-2682-4CB7-8F51-EA5675174689}|Perpustakaan\\Perpustakaan.csproj|d:\\projectdata\\backup\\net\\perpustakaan\\perpustakaan\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE19BC41-2682-4CB7-8F51-EA5675174689}|Perpustakaan\\Perpustakaan.csproj|solutionrelative:perpustakaan\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE19BC41-2682-4CB7-8F51-EA5675174689}|Perpustakaan\\Perpustakaan.csproj|d:\\projectdata\\backup\\net\\perpustakaan\\perpustakaan\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AE19BC41-2682-4CB7-8F51-EA5675174689}|Perpustakaan\\Perpustakaan.csproj|solutionrelative:perpustakaan\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE19BC41-2682-4CB7-8F51-EA5675174689}|Perpustakaan\\Perpustakaan.csproj|d:\\projectdata\\backup\\net\\perpustakaan\\perpustakaan\\models\\masterjenisbuku.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE19BC41-2682-4CB7-8F51-EA5675174689}|Perpustakaan\\Perpustakaan.csproj|solutionrelative:perpustakaan\\models\\masterjenisbuku.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE19BC41-2682-4CB7-8F51-EA5675174689}|Perpustakaan\\Perpustakaan.csproj|d:\\projectdata\\backup\\net\\perpustakaan\\perpustakaan\\data\\repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE19BC41-2682-4CB7-8F51-EA5675174689}|Perpustakaan\\Perpustakaan.csproj|solutionrelative:perpustakaan\\data\\repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE19BC41-2682-4CB7-8F51-EA5675174689}|Perpustakaan\\Perpustakaan.csproj|d:\\projectdata\\backup\\net\\perpustakaan\\perpustakaan\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE19BC41-2682-4CB7-8F51-EA5675174689}|Perpustakaan\\Perpustakaan.csproj|solutionrelative:perpustakaan\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AE19BC41-2682-4CB7-8F51-EA5675174689}|Perpustakaan\\Perpustakaan.csproj|d:\\projectdata\\github\\test_lps\\perpustakaan\\perpustakaan\\data\\repository\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE19BC41-2682-4CB7-8F51-EA5675174689}|Perpustakaan\\Perpustakaan.csproj|solutionrelative:perpustakaan\\data\\repository\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -70,158 +26,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\ProjectData\\Backup\\NET\\Perpustakaan\\Perpustakaan\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Perpustakaan\\Views\\Home\\Index.cshtml",
-              "ToolTip": "D:\\ProjectData\\Backup\\NET\\Perpustakaan\\Perpustakaan\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Perpustakaan\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-12T04:05:40.111Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "D:\\ProjectData\\Backup\\NET\\Perpustakaan\\Perpustakaan\\Views\\Buku\\Create.cshtml",
-              "RelativeDocumentMoniker": "Perpustakaan\\Views\\Buku\\Create.cshtml",
-              "ToolTip": "D:\\ProjectData\\Backup\\NET\\Perpustakaan\\Perpustakaan\\Views\\Buku\\Create.cshtml",
-              "RelativeToolTip": "Perpustakaan\\Views\\Buku\\Create.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-12T03:52:41.471Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "D:\\ProjectData\\Backup\\NET\\Perpustakaan\\Perpustakaan\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "Perpustakaan\\Data\\AppDbContext.cs",
-              "ToolTip": "D:\\ProjectData\\Backup\\NET\\Perpustakaan\\Perpustakaan\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "Perpustakaan\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-12T03:38:32.685Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\ProjectData\\Backup\\NET\\Perpustakaan\\Perpustakaan\\Views\\Buku\\Index.cshtml",
-              "RelativeDocumentMoniker": "Perpustakaan\\Views\\Buku\\Index.cshtml",
-              "ToolTip": "D:\\ProjectData\\Backup\\NET\\Perpustakaan\\Perpustakaan\\Views\\Buku\\Index.cshtml",
-              "RelativeToolTip": "Perpustakaan\\Views\\Buku\\Index.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB4AAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-12T03:35:07.45Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "MasterJenisBuku.cs",
-              "DocumentMoniker": "D:\\ProjectData\\Backup\\NET\\Perpustakaan\\Perpustakaan\\Models\\MasterJenisBuku.cs",
-              "RelativeDocumentMoniker": "Perpustakaan\\Models\\MasterJenisBuku.cs",
-              "ToolTip": "D:\\ProjectData\\Backup\\NET\\Perpustakaan\\Perpustakaan\\Models\\MasterJenisBuku.cs",
-              "RelativeToolTip": "Perpustakaan\\Models\\MasterJenisBuku.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "D:\\ProjectData\\GitHub\\test_lps\\Perpustakaan\\Perpustakaan\\Data\\Repository\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "Perpustakaan\\Data\\Repository\\UnitOfWork.cs",
+              "ToolTip": "D:\\ProjectData\\GitHub\\test_lps\\Perpustakaan\\Perpustakaan\\Data\\Repository\\UnitOfWork.cs",
+              "RelativeToolTip": "Perpustakaan\\Data\\Repository\\UnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-12T03:22:57.554Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "GenericRepository.cs",
-              "DocumentMoniker": "D:\\ProjectData\\Backup\\NET\\Perpustakaan\\Perpustakaan\\Data\\Repository\\GenericRepository.cs",
-              "RelativeDocumentMoniker": "Perpustakaan\\Data\\Repository\\GenericRepository.cs",
-              "ToolTip": "D:\\ProjectData\\Backup\\NET\\Perpustakaan\\Perpustakaan\\Data\\Repository\\GenericRepository.cs",
-              "RelativeToolTip": "Perpustakaan\\Data\\Repository\\GenericRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-12T03:22:52.546Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "D:\\ProjectData\\Backup\\NET\\Perpustakaan\\Perpustakaan\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Perpustakaan\\Controllers\\HomeController.cs",
-              "ToolTip": "D:\\ProjectData\\Backup\\NET\\Perpustakaan\\Perpustakaan\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Perpustakaan\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-12T03:21:08.829Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "BukuController.cs",
-              "DocumentMoniker": "D:\\ProjectData\\Backup\\NET\\Perpustakaan\\Perpustakaan\\Controllers\\BukuController.cs",
-              "RelativeDocumentMoniker": "Perpustakaan\\Controllers\\BukuController.cs",
-              "ToolTip": "D:\\ProjectData\\Backup\\NET\\Perpustakaan\\Perpustakaan\\Controllers\\BukuController.cs",
-              "RelativeToolTip": "Perpustakaan\\Controllers\\BukuController.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAowDEAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-12T03:21:04.089Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "MasterJenisBukuController.cs",
-              "DocumentMoniker": "D:\\ProjectData\\Backup\\NET\\Perpustakaan\\Perpustakaan\\Controllers\\MasterJenisBukuController.cs",
-              "RelativeDocumentMoniker": "Perpustakaan\\Controllers\\MasterJenisBukuController.cs",
-              "ToolTip": "D:\\ProjectData\\Backup\\NET\\Perpustakaan\\Perpustakaan\\Controllers\\MasterJenisBukuController.cs",
-              "RelativeToolTip": "Perpustakaan\\Controllers\\MasterJenisBukuController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAA3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-12T03:19:20.409Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "D:\\ProjectData\\Backup\\NET\\Perpustakaan\\Perpustakaan\\Views\\MasterJenisBuku\\Create.cshtml",
-              "RelativeDocumentMoniker": "Perpustakaan\\Views\\MasterJenisBuku\\Create.cshtml",
-              "ToolTip": "D:\\ProjectData\\Backup\\NET\\Perpustakaan\\Perpustakaan\\Views\\MasterJenisBuku\\Create.cshtml",
-              "RelativeToolTip": "Perpustakaan\\Views\\MasterJenisBuku\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-12T03:26:18.536Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\ProjectData\\Backup\\NET\\Perpustakaan\\Perpustakaan\\Views\\MasterJenisBuku\\Index.cshtml",
-              "RelativeDocumentMoniker": "Perpustakaan\\Views\\MasterJenisBuku\\Index.cshtml",
-              "ToolTip": "D:\\ProjectData\\Backup\\NET\\Perpustakaan\\Perpustakaan\\Views\\MasterJenisBuku\\Index.cshtml",
-              "RelativeToolTip": "Perpustakaan\\Views\\MasterJenisBuku\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-12T03:24:15.379Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\ProjectData\\Backup\\NET\\Perpustakaan\\Perpustakaan\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Perpustakaan\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\ProjectData\\Backup\\NET\\Perpustakaan\\Perpustakaan\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Perpustakaan\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAByAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-12T03:23:17.007Z",
+              "WhenOpened": "2025-12-16T03:43:37.109Z",
               "EditorCaption": ""
             }
           ]

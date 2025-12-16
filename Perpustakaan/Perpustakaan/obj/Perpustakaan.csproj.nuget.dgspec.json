@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ProjectData\\Backup\\NET\\Perpustakaan\\Perpustakaan\\Perpustakaan.csproj": {}
+    "D:\\ProjectData\\GitHub\\test_lps\\Perpustakaan\\Perpustakaan\\Perpustakaan.csproj": {}
   },
   "projects": {
-    "D:\\ProjectData\\Backup\\NET\\Perpustakaan\\Perpustakaan\\Perpustakaan.csproj": {
+    "D:\\ProjectData\\GitHub\\test_lps\\Perpustakaan\\Perpustakaan\\Perpustakaan.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ProjectData\\Backup\\NET\\Perpustakaan\\Perpustakaan\\Perpustakaan.csproj",
+        "projectUniqueName": "D:\\ProjectData\\GitHub\\test_lps\\Perpustakaan\\Perpustakaan\\Perpustakaan.csproj",
         "projectName": "Perpustakaan",
-        "projectPath": "D:\\ProjectData\\Backup\\NET\\Perpustakaan\\Perpustakaan\\Perpustakaan.csproj",
+        "projectPath": "D:\\ProjectData\\GitHub\\test_lps\\Perpustakaan\\Perpustakaan\\Perpustakaan.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "D:\\ProjectData\\Backup\\NET\\Perpustakaan\\Perpustakaan\\obj\\",
+        "outputPath": "D:\\ProjectData\\GitHub\\test_lps\\Perpustakaan\\Perpustakaan\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

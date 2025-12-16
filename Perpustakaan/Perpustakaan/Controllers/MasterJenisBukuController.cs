@@ -7,15 +7,17 @@ namespace Perpustakaan.Controllers
     public class MasterJenisBukuController : Controller
     {
         private readonly IGenericRepository<MasterJenisBuku> _repository;
+        private readonly IUnitOfWork _uow;
 
-        public MasterJenisBukuController(IGenericRepository<MasterJenisBuku> repository)
+        public MasterJenisBukuController(IGenericRepository<MasterJenisBuku> repository, IUnitOfWork uow)
         {
             _repository = repository;
+            _uow = uow;
         }
 
         public async Task<IActionResult> Index()
         {
-            return View(await _repository.GetAllAsync());
+            return View(await _uow.MasterJenisBuku.GetAllAsync());
         }
         public IActionResult Create()
         {
@@ -25,17 +27,29 @@ namespace Perpustakaan.Controllers
         [HttpPost]
         public async Task<IActionResult> Create(MasterJenisBuku model)
         {
-            await _repository.AddAsync(model);
-            await _repository.SaveAsync();
+            await _uow.MasterJenisBuku.AddAsync(model);
+            await _uow.SaveAsync();
             return RedirectToAction("Index");
         }
 
         public async Task<IActionResult> Delete(int id)
         {
-            var entity = await _repository.GetByIdAsync(id);
-            _repository.DeleteAsync(entity);
-            await _repository.SaveAsync();
+            var entity = await _uow.MasterJenisBuku.GetByIdAsync(id);
+            _uow.MasterJenisBuku.DeleteAsync(entity);
+            await _uow.SaveAsync();
             return RedirectToAction("Index");
+        }
+        public async Task<IActionResult> Edit(int id)
+        {
+            return View(await _uow.MasterJenisBuku.GetByIdAsync(id));
+        }
+
+        [HttpPost]
+        public async Task<IActionResult> Edit(MasterJenisBuku model)
+        {
+            _uow.MasterJenisBuku.UpdateAsync(model);
+            await _uow.SaveAsync();
+            return RedirectToAction(nameof(Index));
         }
     }
 }

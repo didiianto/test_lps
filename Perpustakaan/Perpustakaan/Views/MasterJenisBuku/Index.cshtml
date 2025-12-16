@@ -16,8 +16,8 @@
             <td>@item.Id</td>
             <td>@item.JenisBuku</td>
             <td>
-                <a href="/MasterJenisBuku/Edit/@item.Id">Edit</a>
-                <a href="/MasterJenisBuku/Delete/@item.Id">Delete</a>
+                <a class="btn btn-primary" href="/MasterJenisBuku/Edit/@item.Id">Edit</a>
+                <a class="btn btn-danger" href="/MasterJenisBuku/Delete/@item.Id" onclick="return confirm('Yakin hapus?')">Delete</a>
             </td>
         </tr>
     }

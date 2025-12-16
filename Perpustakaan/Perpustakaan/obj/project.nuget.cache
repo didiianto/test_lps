@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "czqjrf8LOaM=",
+  "dgSpecHash": "Rw5BuO8JHsQ=",
   "success": true,
-  "projectFilePath": "D:\\ProjectData\\Backup\\NET\\Perpustakaan\\Perpustakaan\\Perpustakaan.csproj",
+  "projectFilePath": "D:\\ProjectData\\GitHub\\test_lps\\Perpustakaan\\Perpustakaan\\Perpustakaan.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\admin\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

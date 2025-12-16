@@ -12,7 +12,7 @@ using Perpustakaan.Data;
 namespace Perpustakaan.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20251212022759_InitialCreate")]
+    [Migration("20251214230919_InitialCreate")]
     partial class InitialCreate
     {
         /// <inheritdoc />
@@ -106,12 +106,17 @@ namespace Perpustakaan.Migrations
             modelBuilder.Entity("Perpustakaan.Models.Buku", b =>
                 {
                     b.HasOne("Perpustakaan.Models.MasterJenisBuku", "JenisBuku")
-                        .WithMany()
+                        .WithMany("Bukus")
                         .HasForeignKey("JenisBukuId")
-                        .OnDelete(DeleteBehavior.Cascade)
+                        .OnDelete(DeleteBehavior.Restrict)
                         .IsRequired();
 
                     b.Navigation("JenisBuku");
+                });
+
+            modelBuilder.Entity("Perpustakaan.Models.MasterJenisBuku", b =>
+                {
+                    b.Navigation("Bukus");
                 });
 #pragma warning restore 612, 618
         }

@@ -103,12 +103,17 @@ namespace Perpustakaan.Migrations
             modelBuilder.Entity("Perpustakaan.Models.Buku", b =>
                 {
                     b.HasOne("Perpustakaan.Models.MasterJenisBuku", "JenisBuku")
-                        .WithMany()
+                        .WithMany("Bukus")
                         .HasForeignKey("JenisBukuId")
-                        .OnDelete(DeleteBehavior.Cascade)
+                        .OnDelete(DeleteBehavior.Restrict)
                         .IsRequired();
 
                     b.Navigation("JenisBuku");
+                });
+
+            modelBuilder.Entity("Perpustakaan.Models.MasterJenisBuku", b =>
+                {
+                    b.Navigation("Bukus");
                 });
 #pragma warning restore 612, 618
         }

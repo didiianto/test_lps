@@ -1,0 +1,15 @@
+﻿@model Perpustakaan.Models.MasterJenisBuku
+
+<h2>Edit Jenis Buku</h2>
+
+<form method="post" asp-action="Edit">
+    <input type="hidden" asp-for="Id" />
+
+    <div class="mb-3">
+        <label>Jenis Buku</label>
+        <input asp-for="JenisBuku" class="form-control" />
+    </div>
+
+    <button type="submit" class="btn btn-primary">Update</button>
+    <a href="/MasterJenisBuku" class="btn btn-secondary">Kembali</a>
+</form>

@@ -9,57 +9,65 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Perpustakaan
 build_property.RootNamespace = Perpustakaan
-build_property.ProjectDir = D:\ProjectData\Backup\NET\Perpustakaan\Perpustakaan\
+build_property.ProjectDir = D:\ProjectData\GitHub\test_lps\Perpustakaan\Perpustakaan\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\ProjectData\Backup\NET\Perpustakaan\Perpustakaan
+build_property.MSBuildProjectDirectory = D:\ProjectData\GitHub\test_lps\Perpustakaan\Perpustakaan
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 8.0
 build_property.EnableCodeStyleSeverity = 
 
-[D:/ProjectData/Backup/NET/Perpustakaan/Perpustakaan/Views/Buku/Create.cshtml]
+[D:/ProjectData/GitHub/test_lps/Perpustakaan/Perpustakaan/Views/Buku/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQnVrdVxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ProjectData/Backup/NET/Perpustakaan/Perpustakaan/Views/Buku/Index.cshtml]
+[D:/ProjectData/GitHub/test_lps/Perpustakaan/Perpustakaan/Views/Buku/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQnVrdVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ProjectData/GitHub/test_lps/Perpustakaan/Perpustakaan/Views/Buku/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQnVrdVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ProjectData/Backup/NET/Perpustakaan/Perpustakaan/Views/Home/Index.cshtml]
+[D:/ProjectData/GitHub/test_lps/Perpustakaan/Perpustakaan/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ProjectData/Backup/NET/Perpustakaan/Perpustakaan/Views/Home/Privacy.cshtml]
+[D:/ProjectData/GitHub/test_lps/Perpustakaan/Perpustakaan/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ProjectData/Backup/NET/Perpustakaan/Perpustakaan/Views/MasterJenisBuku/Create.cshtml]
+[D:/ProjectData/GitHub/test_lps/Perpustakaan/Perpustakaan/Views/MasterJenisBuku/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFzdGVySmVuaXNCdWt1XENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ProjectData/Backup/NET/Perpustakaan/Perpustakaan/Views/MasterJenisBuku/Index.cshtml]
+[D:/ProjectData/GitHub/test_lps/Perpustakaan/Perpustakaan/Views/MasterJenisBuku/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFzdGVySmVuaXNCdWt1XEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ProjectData/GitHub/test_lps/Perpustakaan/Perpustakaan/Views/MasterJenisBuku/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFzdGVySmVuaXNCdWt1XEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ProjectData/Backup/NET/Perpustakaan/Perpustakaan/Views/Shared/Error.cshtml]
+[D:/ProjectData/GitHub/test_lps/Perpustakaan/Perpustakaan/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ProjectData/Backup/NET/Perpustakaan/Perpustakaan/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/ProjectData/GitHub/test_lps/Perpustakaan/Perpustakaan/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ProjectData/Backup/NET/Perpustakaan/Perpustakaan/Views/_ViewImports.cshtml]
+[D:/ProjectData/GitHub/test_lps/Perpustakaan/Perpustakaan/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ProjectData/Backup/NET/Perpustakaan/Perpustakaan/Views/_ViewStart.cshtml]
+[D:/ProjectData/GitHub/test_lps/Perpustakaan/Perpustakaan/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ProjectData/Backup/NET/Perpustakaan/Perpustakaan/Views/Shared/_Layout.cshtml]
+[D:/ProjectData/GitHub/test_lps/Perpustakaan/Perpustakaan/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-0p1o6jnoao

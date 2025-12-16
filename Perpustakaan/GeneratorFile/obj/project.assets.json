@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ProjectData\\Backup\\NET\\Perpustakaan\\GeneratorFile\\GeneratorFile.csproj",
+      "projectUniqueName": "D:\\ProjectData\\GitHub\\test_lps\\Perpustakaan\\GeneratorFile\\GeneratorFile.csproj",
       "projectName": "GeneratorFile",
-      "projectPath": "D:\\ProjectData\\Backup\\NET\\Perpustakaan\\GeneratorFile\\GeneratorFile.csproj",
+      "projectPath": "D:\\ProjectData\\GitHub\\test_lps\\Perpustakaan\\GeneratorFile\\GeneratorFile.csproj",
       "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "D:\\ProjectData\\Backup\\NET\\Perpustakaan\\GeneratorFile\\obj\\",
+      "outputPath": "D:\\ProjectData\\GitHub\\test_lps\\Perpustakaan\\GeneratorFile\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

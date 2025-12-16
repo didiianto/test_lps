@@ -1,0 +1,38 @@
+﻿@model Perpustakaan.Models.Buku
+@using Microsoft.AspNetCore.Mvc.Rendering
+
+<h2>Edit Buku</h2>
+
+<form method="post" asp-action="Edit">
+    <input type="hidden" asp-for="Id" />
+
+    <div class="mb-3">
+        <label>Judul</label>
+        <input asp-for="Judul" class="form-control" />
+    </div>
+
+    <div class="mb-3">
+        <label>Penulis</label>
+        <input asp-for="Penulis" class="form-control" />
+    </div>
+
+    <div class="mb-3">
+        <label>Jenis Buku</label>
+        <select asp-for="JenisBukuId" class="form-control"
+                asp-items="@(new SelectList(ViewBag.Jenis, "Id", "JenisBuku"))">
+        </select>
+    </div>
+
+    <div class="mb-3">
+        <label>Tanggal Rilis</label>
+        <input asp-for="TanggalRilis" type="date" class="form-control" />
+    </div>
+
+    <div class="mb-3">
+        <label>Jumlah Halaman</label>
+        <input asp-for="JumlahHalaman" class="form-control" />
+    </div>
+
+    <button type="submit" class="btn btn-primary">Update</button>
+    <a href="/Buku" class="btn btn-secondary">Kembali</a>
+</form>
